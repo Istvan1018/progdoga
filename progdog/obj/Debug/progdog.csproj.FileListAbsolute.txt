@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\progdog\progdog\progdog\bin\Debug\progdog.exe.config
+C:\Users\User\Desktop\progdog\progdog\progdog\bin\Debug\progdog.exe
+C:\Users\User\Desktop\progdog\progdog\progdog\bin\Debug\progdog.pdb
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\progdog.csprojAssemblyReference.cache
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\App.g.cs
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\progdog_MarkupCompile.cache
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\progdog_MarkupCompile.lref
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\progdog.g.resources
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\progdog.Properties.Resources.resources
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\progdog.csproj.GenerateResource.cache
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\progdog.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\progdog.exe
+C:\Users\User\Desktop\progdog\progdog\progdog\obj\Debug\progdog.pdb
